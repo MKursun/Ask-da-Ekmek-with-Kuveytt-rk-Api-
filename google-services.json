@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719592114790",
+    "firebase_url": "https://askida-ekmek.firebaseio.com",
+    "project_id": "askida-ekmek",
+    "storage_bucket": "askida-ekmek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719592114790:android:25a54f3582b12a9d",
+        "android_client_info": {
+          "package_name": "com.example.askdaekmek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719592114790-r2serpck2aht1rt81dgjs38osc9jq37d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZHE3gJt6U3yt4IS1UznMnlZmLW76X9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719592114790-r2serpck2aht1rt81dgjs38osc9jq37d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
